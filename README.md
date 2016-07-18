@@ -4,7 +4,12 @@ Docker: the container engine [![Release](https://img.shields.io/github/release/d
 
 
 
-Docker is an open source project to pack, ship and run any application
+Docker is an open sou
+
+
+
+
+rce project to pack, ship and run any application
 as a lightweight container.
 
 Docker containers are both *hardware-agnostic* and *platform-agnostic*.
